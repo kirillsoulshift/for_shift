@@ -31,3 +31,7 @@ Username: *user1* Password: *secret1*
 
 Нажать на кнопку `GET http://127.0.0.1:8000/users/me`, далее в открывшемся поле на кнопку `Execute`
 
+#### Завершить работу контейнера
+
+`docker compose down`
+
